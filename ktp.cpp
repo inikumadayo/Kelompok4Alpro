@@ -6,6 +6,8 @@ int main(){
 	string nama, tempat, kelamin, alamat, kelurahan, kecamatan, agama, status, pekerjaan, keluarga, berlaku hingga;
 	
 	cout<<"============KTP============"<<endl;
-	cout<<"Nama"
-	
+	cout<<"NIK      : "; cin>>nik;
+	cout<<"nama     : "; cin>>nama;
+	cout<<"Tempat   : "; cin>>tempat;
+	cout<<"tanggal  : "; cin>>nama;
 }
