@@ -23,6 +23,7 @@ int main(){
 	cout<<"Pekerjaan		: ";cin>>pekerjaan;
 	cout<<"Kewarganegaraan		: ";cin>>kewarganegaraan; cin.ignore();
 	cout<<"Berlaku hingga		: ";getline(cin,berlaku);
+	cout<<endl;
 	
 	cout<<"NIK			: "<<nik<<endl;
 	cout<<"Nama			: "<<nama<<endl;
