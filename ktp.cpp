@@ -18,7 +18,7 @@ int main(){
 	cout<<"RW			: ";cin>>rw;
 	cout<<"Kelurahan/Desa		: ";cin>>kelurahan;
 	cout<<"Kecamatan		: ";cin>>kecamatan;
-	cout<<"Agama			: ";cin>>agama;
+	cout<<"Agama			: ";cin>>agama;cin.ignore();
 	cout<<"Status Perkawinan	: ";getline(cin,status);
 	cout<<"Pekerjaan		: ";cin>>pekerjaan;
 	cout<<"Kewarganegaraan		: ";cin>>kewarganegaraan;
