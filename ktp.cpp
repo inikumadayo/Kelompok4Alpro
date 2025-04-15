@@ -22,7 +22,7 @@ int main(){
 	cout<<"Agama				: ";cin>>agama;cin.ignore();
 	cout<<"Status Perkawinan		: ";getline(cin,status);
 	cout<<"Pekerjaan			: ";cin>>pekerjaan;
-	cout<<"Kewarganegaraan		: ";cin>>kewarganegaraan; cin.ignore();
+	cout<<"Kewarganegaraan			: ";cin>>kewarganegaraan; cin.ignore();
 	cout<<"Berlaku hingga			: ";getline(cin,berlaku);
 	cout<<endl;
 	system("cls");
@@ -41,6 +41,6 @@ int main(){
 	cout<<"Agama				: "<<agama<<endl;
 	cout<<"Status Perkawinan		: "<<status<<endl;
 	cout<<"Pekerjaan			: "<<pekerjaan<<endl;
-	cout<<"Kewarganegaraan		: "<<kewarganegaraan<<endl;
+	cout<<"Kewarganegaraan			: "<<kewarganegaraan<<endl;
 	cout<<"Berlaku hingga			: "<<berlaku<<endl;
 }
