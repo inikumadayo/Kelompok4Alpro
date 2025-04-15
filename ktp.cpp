@@ -24,28 +24,6 @@ int main(){
 	cout<<"Kewarganegaraan		: ";cin>>kewarganegaraan;
 	cout<<"Berlaku hingga		: ";getline(cin,berlaku);
 	
-	
-	cout<<"NIK			: "<<nik<<endl;
-	cout<<"Nama			: "<<nama<<endl;
-	cout<<"Tempat lahir		: "<<tempat<<endl;
-	cout<<"Tanggal lahir		: "<<tanggal<<endl;
-	cout<<"Bulan lahir		: "<<bulan<<endl;
-	cout<<"Tahun lahir		: "<<tahun<<endl;
-	cout<<"Jenis kelamin		: "<<kelamin<<endl;
-	cout<<"Dusun/Kampung		: "<<alamat<<endl;
-	cout<<"	RT/RW			: "<<rt<<"/"<<rw<<endl;
-	cout<<"	Kelurahan/Desa		: "<<kelurahan<<endl;
-	cout<<"	Kecamatan		: "<<kecamatan<<endl;
-	cout<<"Agama			: "<<agama<<endl;
-	cout<<"Status Perkawinan	: "<<status<<endl;
-	cout<<"Pekerjaan		: "<<pekerjaan<<endl;
-	cout<<"Kewarganegaraan		: "<<kewarganegaraan<<endl;
-	cout<<"Berlaku hingga		: "<<berlaku<<endl;
-}
-
-	cout<<"Berlaku hingga		: ";cin>>berlaku;
-	
-	
 	cout<<"NIK			: "<<nik<<endl;
 	cout<<"Nama			: "<<nama<<endl;
 	cout<<"Tempat lahir		: "<<tempat<<endl;
