@@ -21,7 +21,7 @@ int main(){
 	cout<<"Agama			: ";cin>>agama;cin.ignore();
 	cout<<"Status Perkawinan	: ";getline(cin,status);
 	cout<<"Pekerjaan		: ";cin>>pekerjaan;
-	cout<<"Kewarganegaraan		: ";cin>>kewarganegaraan;
+	cout<<"Kewarganegaraan		: ";cin>>kewarganegaraan; cin.ignore();
 	cout<<"Berlaku hingga		: ";getline(cin,berlaku);
 	
 	cout<<"NIK			: "<<nik<<endl;
